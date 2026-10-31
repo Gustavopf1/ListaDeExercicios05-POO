@@ -1,0 +1,6 @@
+package questao3;
+
+public interface NavegadorInternet {
+    void exibirPagina(String url);
+    void adicionarNovaAba();
+}
